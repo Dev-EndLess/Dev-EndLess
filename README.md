@@ -1,16 +1,11 @@
-### Hi ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Fabrizio
 
-# My name is Fabrizio
-
-
-
-### Frontend Developer
-
+### I'm a Professional Frontend Developer
 
 * 🌍  I'm based in Pesaro | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" width="22" height="14" alt="Italy" /> Italy 
 * 🚀  I'm currently working in <a href="https://www.netstrada.it/it/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/JQnTS7v/netstrada-it-logo.jpg" width="20" height="20" alt="Netstrada" /></a> Netstrada 
-* 🧠  I'm learning ...edit...
-* ⚡  Anything else ...edit...
+* 🧠  I'm learning ...
+* ⚡  Anything else ...
 
 ### Experience and Technologies
 
