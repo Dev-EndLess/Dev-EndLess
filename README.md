@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="1200" src="https://64.media.tumblr.com/c9de2622abf4f4ee2d61ba90181545f3/cb790e532ac2130f-48/s540x810/b0c92edd8dc474d19c840ee2c8a7478e570d49df.gif"/>
-
 ### Hi ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 # My name is Fabrizio
