@@ -3,7 +3,7 @@
 ### I'm a Professional Frontend Developer
 
 * 🌍  I'm based in Pesaro | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" width="22" height="14" alt="Italy" /> Italy 
-* 🚀  I'm currently working in <a href="https://www.netstrada.it/it/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/JQnTS7v/netstrada-it-logo.jpg" width="20" height="20" alt="Netstrada" /></a> Netstrada 
+* 🚀  I'm currently working in <a href="https://www.netstrada.it/it/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/JQnTS7v/netstrada-it-logo.jpg" width="18" height="18" alt="Netstrada" /></a> Netstrada 
 * 🧠  I'm learning ...
 * ⚡  Anything else ...
 
@@ -13,7 +13,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="46" height="46" alt="TypeScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" height="45" alt="Git" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
@@ -23,7 +23,7 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="45" height="45" alt="NextJs" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="45" height="45" alt="GraphQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="45" height="45" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/04d9c86e2aa80d11ec5a18e4a81c45867bc7a79df5a5be42da6b38f20d0a3cad/68747470733a2f2f766563746f7269666965642e636f6d2f696d616765732f657870726573732d6a732d69636f6e2d32302e706e67" width="48" height="48" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="45" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
 </p>
@@ -31,11 +31,11 @@
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/endlesspain9999" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="32" height="32" /> </picture> 
+  <a href="https://discord.com/users/endlesspain9999" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="34" height="28" /> </picture> 
 </a>
-  <a href="https://www.github.com/Dev-EndLess" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> 
+  <a href="https://www.github.com/Dev-EndLess" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn0.iconfinder.com/data/icons/social-line-transparent/50/Github-line-transparent-512.png" /> <source media="(prefers-color-scheme: light)" srcset="" /> <img src="https://cdn0.iconfinder.com/data/icons/social-line-transparent/50/Github-line-transparent-512.png" width="32" height="32" /> </picture> 
   </a> 
-  <a href="https://www.linkedin.com/in/fabrizio-pozzi-803a7a256/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
+  <a href="https://www.linkedin.com/in/fabrizio-pozzi-803a7a256/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" /> <source media="(prefers-color-scheme: light)"  /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /> </picture> 
   </a>
 </p>
 
