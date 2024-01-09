@@ -23,7 +23,7 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="45" height="45" alt="NextJs" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="45" height="45" alt="GraphQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/04d9c86e2aa80d11ec5a18e4a81c45867bc7a79df5a5be42da6b38f20d0a3cad/68747470733a2f2f766563746f7269666965642e636f6d2f696d616765732f657870726573732d6a732d69636f6e2d32302e706e67" width="48" height="48" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="45" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
 </p>
